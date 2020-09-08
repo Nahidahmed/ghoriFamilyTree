@@ -1,0 +1,94 @@
+{
+ "name": "Abdullah",
+ "children": [
+  {
+    "name": "Sher Ali",
+    "children": [
+        {
+        "name": "Abdul Qayyum",
+        "children": [
+                {"name": "Sabir", "value": 3938}
+            ]
+        },
+        {
+            "name": "Abdul Halim"
+        },
+        {
+            "name": "Mohammad Hanif",
+            "children": [
+                {"name": "Haroon", "value": 7074}
+            ]
+        }
+    ]
+  },
+  {
+    "name": "Waziruddin",
+    "children": [
+        {
+            "name": "Mohammad Shafi", 
+            "children":[
+                {"name": "Anis Ahmed","value": 1983},
+                {"name": "Iqbal Ahmed","value": 2047},
+                {"name": "Shamim","value": 1375},
+                {"name": "Shaheda","value": 8746}
+            ]
+        },
+        {"name": "Mohammad Rafi", "value": 5842},
+        {
+            "name": "Edee Begum",
+            "children": [
+                {"name": "Sabir", "value": 1983}
+            ]
+        },
+        {
+            "name": "Mohammad Moinuddin", 
+            "children":[
+                {"name": "Mohammad Rafi","value": 1983},
+                {"name": "Husna Ara","value": 2047},
+                {"name": "Tasneem Ara","value": 1375},
+                {"name": "Qamar Ara","value": 8746},
+                {"name": "Burhaan","value": 2202},
+                {"name": "Mohsin","value": 1382},
+                {"name": "Sharif","value": 1629}
+            ]
+        },
+        {
+            "name": "Mohammad Latif", 
+            "children":[
+                {"name": "Fazle Ahmed","value": 1983},
+                {"name": "Anjum Parween","value": 2047},
+                {"name": "Irshad","value": 1375},
+                {"name": "Azra","value": 8746},
+                {"name": "Dilshad","value": 2202},
+                {"name": "Ishrat","value": 1382},
+                {"name": "Asma","value": 1629}
+            ]
+        },
+        {"name": "Mohammad Basheer", "value": 449},
+        {
+            "name": "Ruqaiyya", 
+            "children":[
+                {
+                    "name": "Nazma",
+                    "children":[
+                        {"name": "Farid Ahmed", "value":1083},
+                        {"name": "Pervez Ahmed", "value":2047},
+                        {"name": "Nahid Ahmed", "value":1375},
+                        {"name": "Anvar Ahmed", "value":8746}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Zainulabedin", 
+            "children":[
+                {"name": "Farhat Kosar","value": 1983},
+                {"name": "Sajid","value": 2047},
+                {"name": "Salma","value": 1375},
+                {"name": "Reshma","value": 8746}
+            ]
+        }
+   ]
+  }
+]
+}
