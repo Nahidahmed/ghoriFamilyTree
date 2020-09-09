@@ -2,13 +2,15 @@ export default function define(runtime, observer) {
   const main = runtime.module();
   const fileAttachments = new Map([["flare-2.json",new URL("./files/e65374209781891f37dea1e7a6e1c5e020a3009b8aedf113b4c80942018887a1176ad4945cf14444603ff91d3da371b3b0d72419fa8d2ee0f6e815732475d5de",import.meta.url)]]);
   main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));
-  main.variable(observer()).define(["md"], function(md){return(
-          md`# The Ghori Family Tree
+  main.variable(observer()).define(["md"], function(md){
+    return(
+          md`#  The Ghori Family Tree
           
           Tap on the blacks dots to navigate.
           `
-)});
-  main.variable(observer("chart")).define("chart", ["d3","data","dy","margin","width","dx","tree","diagonal"], function(d3,data,dy,margin,width,dx,tree,diagonal)
+        )});
+
+main.variable(observer("chart")).define("chart", ["d3","data","dy","margin","width","dx","tree","diagonal"], function(d3,data,dy,margin,width,dx,tree,diagonal)
 {
   const root = d3.hierarchy(data);
 
@@ -166,7 +168,7 @@ export default function define(runtime, observer) {
 
   main.variable(observer("margin")).define("margin", function(){
     return(
-      {top: 50, right: 120, bottom: 10, left: 60}
+      {top: 30, right: 120, bottom: 800, left: 60}
     )}
   );
 
