@@ -108,7 +108,7 @@
                         "name": "Shamim",
                         "children":[
                             {
-                                "name": "Wasim Ahmed",
+                                "name": "Wasim Ahmed (Guddu)",
                                 "children":[
                                     {"name": "Ovais","value": 1983},
                                     {"name": "Ayaan","value": 2047}
@@ -129,7 +129,7 @@
                                 ]
                             },
                             {
-                                "name": "Abrar Ahmed",
+                                "name": "Abrar Ahmed (Bhaiyyu)",
                                 "children":[
                                     {"name": "Aatika","value": 1983}
                                 ]
@@ -141,7 +141,7 @@
                         "name": "Shaheda", 
                         "children":[
                             {
-                                "name": "Shaiesta",
+                                "name": "Shaiesta (Rinku)",
                                 "children":[
                                     {"name": "Arisha", "value":1083}
                                 ]
@@ -188,10 +188,29 @@
         {
             "name": "Mohammad Moinuddin", 
             "children":[
-                {"name": "Mohammad Rafi","value": 1983},
-                {"name": "Husna Ara","value": 2047},
+                {
+                    "name": "Mohammad Rafi",
+                    "children":[
+                        {"name": "Aqsa","value": 1983},
+                        {"name": "Mohammad Amaan","value": 2047}
+                    ]
+                },
+                {
+                    "name": "Husna Ara",
+                    "children":[
+                        {"name": "Boy","value": 1983},
+                        {"name": "Boy","value": 2047}
+                    ]
+                },
                 {"name": "Tasneem Ara","value": 1375},
-                {"name": "Qamar Ara","value": 8746},
+                {
+                    "name": "Qamar Ara",
+                    "children":[
+                        {"name": "Afreen","value": 1983},
+                        {"name": "Raja","value": 2047},
+                        {"name": "Boy","value": 1375}
+                    ]
+                },
                 {"name": "Burhaan","value": 2202},
                 {"name": "Mohsin","value": 1382},
                 {"name": "Sharif","value": 1629}
@@ -311,7 +330,7 @@
                 {
                     "name": "Nazma",
                     "children":[
-                        {"name": "Farid Ahmed", "value":1083},
+                        {"name": "Farid Ahmed (Bablo)", "value":1083},
                         {
                             "name": "Pervez Ahmed",
                             "children":[
@@ -327,7 +346,7 @@
                             ]
                         },
                         {
-                            "name": "Anvar Ahmed", 
+                            "name": "Anvar Ahmed (Chotu)", 
                             "children":[
                                 {"name": "Sufiya","value": 1983},
                                 {"name": "Aiza","value": 2047}
@@ -341,7 +360,7 @@
             "name": "Zainulabedin", 
             "children":[
                 {
-                    "name": "Farhat Kosar",
+                    "name": "Farhat Kosar (Munnu)",
                     "children":[
                         {"name": "Arbaz","value": 1375},
                         {"name": "Amrin","value": 8746},
