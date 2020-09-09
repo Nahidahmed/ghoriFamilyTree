@@ -16,7 +16,15 @@
         {
             "name": "Mohammad Hanif",
             "children": [
-                {"name": "Haroon", "value": 7074}
+                {
+                    "name": "Haroon", 
+                    "children":[
+                        {"name": "Shoeb","value": 1375},
+                        {"name": "Kaneez","value": 8746},
+                        {"name": "Sheeba","value": 2202},
+                        {"name": "Shahid","value": 8746}
+                    ]                        
+                }
             ]
         }
     ]
@@ -42,7 +50,7 @@
                                     {
                                         "name": "Sana",
                                         "children":[
-                                            {"name": "Misha","value":1983}
+                                            {"name": "Misha","value":2047}
                                         ]
                                     },
                                     {"name": "Shifa","value": 2047},
@@ -70,9 +78,28 @@
                     {
                         "name": "Iqbal Ahmed",
                         "children":[
-                            {"name": "Shakira (Shalu)","value": 1983},
-                            {"name": "Bilkis Tarnnum (Tannu)","value": 2047},
-                            {"name": "Zahira (Bittu)","value": 1375},
+                            {
+                                "name": "Shakira (Shalu)",
+                                "children":[
+                                    {"name": "Mohsina","value": 1983},
+                                    {"name": "Sherry","value": 2047}
+                                ]
+                            },
+                            {
+                                "name": "Bilkis Tarnnum (Tannu)",
+                                "children":[
+                                    {"name": "Sania","value": 1375},
+                                    {"name": "Nida","value": 8746},
+                                    {"name": "Arsalan","value": 2202}
+                                ]                        
+                            },
+                            {
+                                "name": "Zahira (Bittu)",
+                                "children":[
+                                    {"name": "Irfan","value": 1983},
+                                    {"name": "Faizan","value": 2047}
+                                ]
+                            },
                             {"name": "Shirin","value": 8746},
                             {"name": "Anwar","value": 2202}
                         ]
@@ -80,17 +107,47 @@
                     {
                         "name": "Shamim",
                         "children":[
-                            {"name": "Wasim Ahmed","value": 1375},
-                            {"name": "Wajida","value": 8746},
-                            {"name": "Shagufta","value": 2202},
-                            {"name": "Abrar Ahmed","value": 2202}
+                            {
+                                "name": "Wasim Ahmed",
+                                "children":[
+                                    {"name": "Ovais","value": 1983},
+                                    {"name": "Ayaan","value": 2047}
+                                ]
+                            },
+                            {
+                                "name": "Wajida",
+                                "children":[
+                                    {"name": "Danish","value": 1983},
+                                    {"name": "Tasbiha","value": 2047}
+                                ]
+                            },
+                            {
+                                "name": "Shagufta",
+                                "children":[
+                                    {"name": "Noman","value": 1983},
+                                    {"name": "Amaira","value": 2047}
+                                ]
+                            },
+                            {
+                                "name": "Abrar Ahmed",
+                                "children":[
+                                    {"name": "Aatika","value": 1983}
+                                ]
+
+                            }
                         ]                        
                     },
                     {
-                        "name": "Shaheda",
+                        "name": "Shaheda", 
                         "children":[
-                            {"name": "Shaista","value": 1375}
+                            {
+                                "name": "Shaiesta",
+                                "children":[
+                                    {"name": "Arisha", "value":1083}
+                                ]
+                            }
                         ]
+
                     }
                 ]
         },
@@ -101,11 +158,32 @@
                 {
                     "name": "Sabir",
                     "children":[
-                        {"name": "Naved Ahmed", "value":1083}
+                        {"name": "Shabana (Shabbo)", "value":1983},
+                        {
+                            "name": "Rubina (Ruby)", 
+                            "children":[
+                                {"name": "Farman","value": 1983},
+                                {"name": "Rizwan","value": 2047}
+                            ]
+                        },
+                        {
+                            "name": "Naved Ahmed",
+                            "children":[
+                                {"name": "Khadija","value": 1983},
+                                {"name": "Abdurrahman","value": 2047}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Farukh",
+                    "children":[
+                        {"name": "Mushtak","value": 1983},
+                        {"name": "Girl","value": 2047},
+                        {"name": "Girl","value": 1375}
                     ]
                 }
             ]
-
         },
         {
             "name": "Mohammad Moinuddin", 
@@ -122,13 +200,108 @@
         {
             "name": "Mohammad Latif", 
             "children":[
-                {"name": "Fazle Ahmed","value": 1983},
-                {"name": "Anjum Parween","value": 2047},
-                {"name": "Irshad","value": 1375},
-                {"name": "Azra","value": 8746},
-                {"name": "Dilshad","value": 2202},
-                {"name": "Ishrat","value": 1382},
-                {"name": "Asma","value": 1629}
+                {
+                    "name": "Fazle Ahmed",
+                    "children":[
+                        {"name": "Boy","value": 1983},
+                        {"name": "Girl","value": 2047}
+                    ]
+                },
+                {
+                    "name": "Anjum Parween",
+                    "children":[
+                        {
+                            "name": "Shadab Kausar (Baby)",
+                            "children":[
+                                {"name": "Mohammed Khizar","value": 1983},
+                                {"name": "Mohammed Farhan","value": 2047}
+                            ]
+                        },
+                        {
+                            "name": "Mohammed Imran (Guddu)",
+                            "children":[
+                                {"name": "Boy","value": 1983},
+                                {"name": "Girl","value": 2047}
+                            ]
+                        },
+                        {
+                            "name": "Nishat (Beauty)",
+                            "children":[
+                                {"name": "Mohammad Rehan","value": 1983},
+                                {"name": "Mohammad Sufiyaan","value": 2047}
+                            ]
+                        },
+                        {
+                            "name": "Sadaf Kausar (Rosy)",
+                            "children":[
+                                {"name": "Mohammed Zaid","value": 1983}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Irshad",
+                    "children":[
+                        {"name": "Rehnuma","value": 1983},
+                        {"name": "Rahbar","value": 2047},
+                        {"name": "Yusra","value": 1375},
+                        {"name": "Xeviera","value": 8746}
+                    ]
+                },
+                {
+                    "name": "Azra",
+                    "children":[
+                        {
+                            "name": "Saba Afreen (Shini)",
+                            "children":[
+                                {"name": "Zainab Afreen","value": 1983},
+                                {"name": "Safiya","value": 2047},
+                                {"name": "Anwar Ahmed","value": 1375}
+                            ]
+                        },
+                        {
+                            "name": "Misbah Kausar (Mini)",
+                            "children":[
+                                {"name": "Selin Fatima","value": 1983},
+                                {"name": "Sidra Kausar","value": 2047}
+                            ]
+                        },
+                        {
+                            "name": "Junaid Ahmed (Prince)",
+                            "children":[
+                                {"name": "Arya Jiyaan","value": 1983}
+                            ]
+                        },
+                        {
+                            "name": "Shahista Kausar",
+                            "children":[
+                                {"name": "Arham Ahmed","value": 1983}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Dilshad",
+                    "children":[
+                        {"name": "Sadiya","value": 1375},
+                        {"name": "Aliya","value": 8746}
+                    ]                        
+                },
+                {
+                    "name": "Ishrat",
+                    "children":[
+                        {"name": "Girl","value": 1983},
+                        {"name": "Boy","value": 2047},
+                        {"name": "Boy","value": 1375}
+                    ]
+                },
+                {
+                    "name": "Asma",
+                    "children":[
+                        {"name": "Asad","value": 1375},
+                        {"name": "Aves","value": 8746}
+                    ]                        
+                }
             ]
         },
         {"name": "Mohammad Basheer", "value": 449},
@@ -139,9 +312,27 @@
                     "name": "Nazma",
                     "children":[
                         {"name": "Farid Ahmed", "value":1083},
-                        {"name": "Pervez Ahmed", "value":2047},
-                        {"name": "Nahid Ahmed", "value":1375},
-                        {"name": "Anvar Ahmed", "value":8746}
+                        {
+                            "name": "Pervez Ahmed",
+                            "children":[
+                                {"name": "Keyan","value": 1983},
+                                {"name": "Alizah","value": 2047}
+                            ]
+                        },
+                        {
+                            "name": "Nahid Ahmed",
+                            "children":[
+                                {"name": "Sharleez","value": 1983},
+                                {"name": "Nawaz Ahmed","value": 2047}
+                            ]
+                        },
+                        {
+                            "name": "Anvar Ahmed", 
+                            "children":[
+                                {"name": "Sufiya","value": 1983},
+                                {"name": "Aiza","value": 2047}
+                            ]
+                        }
                     ]
                 }
             ]
@@ -149,9 +340,28 @@
         {
             "name": "Zainulabedin", 
             "children":[
-                {"name": "Farhat Kosar","value": 1983},
-                {"name": "Sajid","value": 2047},
-                {"name": "Salma","value": 1375},
+                {
+                    "name": "Farhat Kosar",
+                    "children":[
+                        {"name": "Arbaz","value": 1375},
+                        {"name": "Amrin","value": 8746},
+                        {"name": "Sadaf","value": 2202}
+                    ]                        
+                },
+                {
+                    "name": "Sajid",
+                    "children":[
+                        {"name": "Asad","value": 1375},
+                        {"name": "Aves","value": 8746}
+                    ]                        
+                },
+                {
+                    "name": "Salma",
+                    "children":[
+                        {"name": "Sadiya","value": 1375},
+                        {"name": "Aliya","value": 8746}
+                    ]                        
+                },
                 {"name": "Reshma","value": 8746}
             ]
         }
