@@ -198,8 +198,9 @@
                 {
                     "name": "Husna Ara",
                     "children":[
-                        {"name": "Boy","value": 1983},
-                        {"name": "Boy","value": 2047}
+                        {"name": "Hifzul Rehman (Chiku)","value": 1983},
+                        {"name": "Fazle Hakim(Chintu)","value": 2047},
+                        {"name": "Aslam (Mintu)","value": 1629}
                     ]
                 },
                 {"name": "Tasneem Ara","value": 1375},
@@ -207,8 +208,8 @@
                     "name": "Qamar Ara",
                     "children":[
                         {"name": "Afreen","value": 1983},
-                        {"name": "Raja","value": 2047},
-                        {"name": "Boy","value": 1375}
+                        {"name": "Aamir (Raja)","value": 2047},
+                        {"name": "Mohammad Ahmed (Arshan)","value": 1375}
                     ]
                 },
                 {"name": "Burhaan","value": 2202},
@@ -222,8 +223,8 @@
                 {
                     "name": "Fazle Ahmed",
                     "children":[
-                        {"name": "Boy","value": 1983},
-                        {"name": "Girl","value": 2047}
+                        {"name": "Adnan Ahmed (Shanky)","value": 1983},
+                        {"name": "Insha","value": 2047}
                     ]
                 },
                 {
@@ -239,8 +240,8 @@
                         {
                             "name": "Mohammed Imran (Guddu)",
                             "children":[
-                                {"name": "Boy","value": 1983},
-                                {"name": "Girl","value": 2047}
+                                {"name": "Danisha","value": 1983},
+                                {"name": "Mohammad Ali","value": 2047}
                             ]
                         },
                         {
@@ -251,7 +252,7 @@
                             ]
                         },
                         {
-                            "name": "Sadaf Kausar (Rosy)",
+                            "name": "Sadaf Kausar (Rozy)",
                             "children":[
                                 {"name": "Mohammed Zaid","value": 1983}
                             ]
@@ -292,7 +293,7 @@
                             ]
                         },
                         {
-                            "name": "Shahista Kausar",
+                            "name": "Shahista Kausar (Dolly)",
                             "children":[
                                 {"name": "Arham Ahmed","value": 1983}
                             ]
@@ -309,13 +310,18 @@
                 {
                     "name": "Ishrat",
                     "children":[
-                        {"name": "Girl","value": 1983},
-                        {"name": "Boy","value": 2047},
-                        {"name": "Boy","value": 1375}
+                        {
+                            "name": "Subohi (Gudiya)",
+                            "children":[
+                                {"name": "Samia","value": 1983}
+                            ]
+                        },
+                        {"name": "Arshi Azim","value": 2047},
+                        {"name": "Arsalan (Chotu)","value": 1375}
                     ]
                 },
                 {
-                    "name": "Asma",
+                    "name": "Asma (Guddi)",
                     "children":[
                         {"name": "Asad","value": 1375},
                         {"name": "Aves","value": 8746}
@@ -362,7 +368,12 @@
                 {
                     "name": "Farhat Kosar (Munnu)",
                     "children":[
-                        {"name": "Arbaz","value": 1375},
+                        {
+                            "name": "Arbaz",
+                            "children":[
+                                {"name": "Ejaz","value": 1375}
+                            ]                        
+                        },
                         {"name": "Amrin","value": 8746},
                         {"name": "Sadaf","value": 2202}
                     ]                        
