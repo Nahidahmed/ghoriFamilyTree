@@ -29,7 +29,7 @@ main.variable(observer("chart")).define("chart", ["d3","data","dy","margin","wid
 
   const gLink = svg.append("g")
       .attr("fill", "none")
-      .attr("stroke", "#555")
+      .attr("stroke", "red")
       .attr("stroke-opacity", 0.4)
       .attr("stroke-width", 1.5);
 
