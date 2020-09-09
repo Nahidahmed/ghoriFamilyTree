@@ -168,7 +168,7 @@ main.variable(observer("chart")).define("chart", ["d3","data","dy","margin","wid
 
   main.variable(observer("margin")).define("margin", function(){
     return(
-      {top: 30, right: 120, bottom: 800, left: 60}
+      {top: 30, right: 120, bottom: 100, left: 60}
     )}
   );
 
