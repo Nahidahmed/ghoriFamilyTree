@@ -19,8 +19,19 @@
                 {
                     "name": "Haroon", 
                     "children":[
-                        {"name": "Shoeb","value": 1375},
-                        {"name": "Kaneez","value": 8746},
+                        {
+                            "name": "Shoeb",
+                            "children":[
+                                {"name": "Mysha","value":1983}
+                            ]
+                        },
+                        {
+                            "name": "Kaneez",
+                            "children":[
+                                {"name": "Mohammad Ubaid","value": 1983},
+                                {"name": "Mohammad Nubaid","value": 2047}
+                            ]
+                        },
                         {"name": "Sheeba","value": 2202},
                         {"name": "Shahid","value": 8746}
                     ]                        
