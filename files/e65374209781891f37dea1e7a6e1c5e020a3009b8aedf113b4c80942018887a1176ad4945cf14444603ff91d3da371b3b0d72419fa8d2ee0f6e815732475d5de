@@ -178,9 +178,13 @@
                 {
                     "name": "Farukh",
                     "children":[
-                        {"name": "Mushtak","value": 1983},
-                        {"name": "Girl","value": 2047},
-                        {"name": "Girl","value": 1375}
+                        {
+                            "name": "Mushtak",
+                            "children":[
+                                {"name": "Girl","value": 1983},
+                                {"name": "Girl","value": 2047}
+                            ]
+                        }
                     ]
                 }
             ]
