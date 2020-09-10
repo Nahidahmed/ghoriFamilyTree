@@ -108,8 +108,11 @@ main.variable(observer("chart")).define("chart", ["d3","data","dy","margin","wid
     const linkEnter = link.enter().append("path")
         .attr("d", d => {
           const o = {x: source.x0, y: source.y0};
+          //var diagArr = diagonal({source: o, target: o}).split(',').map(x=>+x);
+          //console.log(diagArr);
           return diagonal({source: o, target: o});
         });
+        //.attr("stroke","blue");
 
     // Transition links to their new position.
     link.merge(linkEnter).transition(transition)
