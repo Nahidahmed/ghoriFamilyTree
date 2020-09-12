@@ -10,7 +10,7 @@ export default function define(runtime, observer) {
 
           Credits for providing data: Mohsin Ghori (Mumbai), Naved Ahmed (Nimbahera), 
                                       Sadaf Kausar (Rozy), Misbah Kausar (Mini), Sadiya Ghori (Abu Road)
-                                      Shirin Ghori (Honey baji) Sana (d/o Pappu baji) Sania (d/o Tannu baji)`
+                                      Shirin Ghori (Honey baji), Sana (d/o Pappu baji), Sania (d/o Tannu baji)`
         )});
 
 main.variable(observer("chart")).define("chart", ["d3","data","dy","margin","width","dx","tree","diagonal"], function(d3,data,dy,margin,width,dx,tree,diagonal)
