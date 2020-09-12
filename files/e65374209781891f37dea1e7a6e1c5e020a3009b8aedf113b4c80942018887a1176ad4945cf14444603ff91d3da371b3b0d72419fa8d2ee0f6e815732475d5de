@@ -7,7 +7,26 @@
         {
         "name": "Abdul Qayyum",
         "children": [
-                {"name": "Sabir", "value": 3938}
+                {
+                    "name": "Sabir",
+                    "children":[
+                        {"name": "Shabana (Shabbo)", "value":1983},
+                        {
+                            "name": "Rubina (Ruby)", 
+                            "children":[
+                                {"name": "Farman","value": 1983},
+                                {"name": "Rizwan","value": 2047}
+                            ]
+                        },
+                        {
+                            "name": "Naved Ahmed",
+                            "children":[
+                                {"name": "Khadija","value": 1983},
+                                {"name": "Abdurrahman","value": 2047}
+                            ]
+                        }
+                    ]
+                }
             ]
         },
         {
