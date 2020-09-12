@@ -7,6 +7,8 @@ export default function define(runtime, observer) {
           md`#  The Ghori Family Tree
           
           Tap on the blacks dots to navigate.
+
+          Credits: Mohsin Ghori (Mumbai), Naved Ahmed (Nimbahera), Sadaf Kausar (Rozy), Misbah Kausar (Mini), Sadiya Ghori (Abu Road)
           `
         )});
 
