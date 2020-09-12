@@ -8,7 +8,7 @@ export default function define(runtime, observer) {
           
           Tap on the blacks dots to navigate.
 
-          Credits: Mohsin Ghori (Mumbai), Naved Ahmed (Nimbahera), Sadaf Kausar (Rozy), Misbah Kausar (Mini), Sadiya Ghori (Abu Road)
+          Credits for providing data: Mohsin Ghori (Mumbai), Naved Ahmed (Nimbahera), Sadaf Kausar (Rozy), Misbah Kausar (Mini), Sadiya Ghori (Abu Road)
           `
         )});
 
