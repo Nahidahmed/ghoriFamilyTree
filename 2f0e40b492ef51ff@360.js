@@ -6,11 +6,7 @@ export default function define(runtime, observer) {
     return(
           md`#  The Ghori Family Tree
           
-          Tap on the blacks dots to navigate.
-
-          Credits for providing data: Mohsin Ghori (Mumbai), Naved Ahmed (Nimbahera), 
-                                      Sadaf Kausar (Rozy), Misbah Kausar (Mini), Sadiya Ghori (Abu Road)
-                                      Shirin Ghori (Honey baji), Sana (d/o Pappu baji), Sania (d/o Tannu baji)`
+          Tap on the blacks dots to navigate.`
         )});
 
 main.variable(observer("chart")).define("chart", ["d3","data","dy","margin","width","dx","tree","diagonal"], function(d3,data,dy,margin,width,dx,tree,diagonal)
@@ -138,8 +134,17 @@ main.variable(observer("chart")).define("chart", ["d3","data","dy","margin","wid
   update(root);
 
   return svg.node();
-}
-);
+});
+
+main.variable(observer()).define(["md"], function(md){
+  return(
+        md`Credits for providing data
+
+              Mohsin Ghori (Mumbai), Naved Ahmed (Nimbahera),
+              Sadaf Kausar (Rozy), Misbah Kausar (Mini), Sadiya Ghori (Abu Road)
+              Shirin Ghori (Honey baji), Sana (d/o Pappu baji), Sania (d/o Tannu baji)`
+      )});
+
 
   main.variable(observer("diagonal")).define("diagonal", ["d3"], function(d3){
     return(
