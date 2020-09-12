@@ -8,8 +8,8 @@ export default function define(runtime, observer) {
           
           Tap on the blacks dots to navigate.
 
-          Credits for providing data: Mohsin Ghori (Mumbai), Naved Ahmed (Nimbahera), Sadaf Kausar (Rozy), Misbah Kausar (Mini), Sadiya Ghori (Abu Road)
-          `
+          Credits for providing data: Mohsin Ghori (Mumbai), Naved Ahmed (Nimbahera), 
+                                      Sadaf Kausar (Rozy), Misbah Kausar (Mini), Sadiya Ghori (Abu Road)`
         )});
 
 main.variable(observer("chart")).define("chart", ["d3","data","dy","margin","width","dx","tree","diagonal"], function(d3,data,dy,margin,width,dx,tree,diagonal)
@@ -161,7 +161,7 @@ main.variable(observer("chart")).define("chart", ["d3","data","dy","margin","wid
 
   main.variable(observer("dx")).define("dx", function(){
     return(
-      25
+      20
     )}
   );
 
