@@ -191,8 +191,8 @@
                         {
                             "name": "Mushtak",
                             "children":[
-                                {"name": "Girl","value": 1983},
-                                {"name": "Girl","value": 2047}
+                                {"name": "Ayesha","value": 1983},
+                                {"name": "Ayan","value": 2047}
                             ]
                         }
                     ]
