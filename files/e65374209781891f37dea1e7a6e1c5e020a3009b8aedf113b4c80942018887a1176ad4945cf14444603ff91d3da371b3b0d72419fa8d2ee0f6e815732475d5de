@@ -119,7 +119,11 @@
                             {
                                 "name": "Bilkis Tarnnum (Tannu)",
                                 "children":[
-                                    {"name": "Sania","value": 1375},
+                                    {"name": "Sania",
+                                      "children":[
+                                          {"name": "Hoorain","value":1983}
+                                      ]
+                                    },
                                     {"name": "Nida","value": 8746},
                                     {"name": "Arsalan","value": 2202}
                                 ]
