@@ -80,7 +80,8 @@
                                     {
                                         "name": "Sana",
                                         "children":[
-                                            {"name": "Misha","value":2047}
+                                            {"name": "Misha","value":2047},
+                                            {"name": "Zeeshan","value":1375}
                                         ]
                                     },
                                     {"name": "Shifa","value": 2047},
