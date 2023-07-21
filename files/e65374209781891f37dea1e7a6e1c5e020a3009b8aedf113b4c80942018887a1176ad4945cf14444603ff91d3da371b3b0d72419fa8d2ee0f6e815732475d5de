@@ -80,8 +80,8 @@
                                     {
                                         "name": "Sana",
                                         "children":[
-                                            {"name": "Misha","value":2047},
-                                            {"name": "Zeeshan","value":1375}
+                                            {"name": "Misha","value":1983},
+                                            {"name": "Zeeshan","value":2047}
                                         ]
                                     },
                                     {"name": "Shifa","value": 2047},
@@ -174,8 +174,8 @@
                             {
                                 "name": "Shaiesta (Rinku)",
                                 "children":[
-                                    {"name": "Arisha", "value":1083},
-                                    {"name": "Mohammad Omar", "value":1083}
+                                    {"name": "Arisha", "value":1983},
+                                    {"name": "Mohammad Omar", "value":2047}
                                 ]
                             }
                         ]
