@@ -12,7 +12,7 @@
                     "children":[
                         {"name": "Shabana (Shabbo)", "value":1983},
                         {
-                            "name": "Rubina (Ruby)", 
+                            "name": "Rubina (Ruby)",
                             "children":[
                                 {"name": "Farman","value": 1983},
                                 {"name": "Rizwan","value": 2047}
@@ -36,7 +36,7 @@
             "name": "Mohammad Hanif",
             "children": [
                 {
-                    "name": "Haroon", 
+                    "name": "Haroon",
                     "children":[
                         {
                             "name": "Shoeb",
@@ -53,7 +53,7 @@
                         },
                         {"name": "Sheeba","value": 2202},
                         {"name": "Shahid","value": 8746}
-                    ]                        
+                    ]
                 }
             ]
         }
@@ -63,7 +63,7 @@
     "name": "Waziruddin",
     "children": [
         {
-            "name": "Mohammad Shafi", 
+            "name": "Mohammad Shafi",
             "children":[
                     {
                         "name": "Anis Ahmed",
@@ -121,7 +121,7 @@
                                     {"name": "Sania","value": 1375},
                                     {"name": "Nida","value": 8746},
                                     {"name": "Arsalan","value": 2202}
-                                ]                        
+                                ]
                             },
                             {
                                 "name": "Zahira (Bittu)",
@@ -165,15 +165,16 @@
                                 ]
 
                             }
-                        ]                        
+                        ]
                     },
                     {
-                        "name": "Shaheda", 
+                        "name": "Shaheda",
                         "children":[
                             {
                                 "name": "Shaiesta (Rinku)",
                                 "children":[
-                                    {"name": "Arisha", "value":1083}
+                                    {"name": "Arisha", "value":1083},
+                                    {"name": "Mohammad Omar", "value":1083}
                                 ]
                             }
                         ]
@@ -182,14 +183,14 @@
         },
         {   "name": "Mohammad Rafi", "value": 5842 },
         {
-            "name": "Edee Begum", 
+            "name": "Edee Begum",
             "children":[
                 {
                     "name": "Sabir",
                     "children":[
                         {"name": "Shabana (Shabbo)", "value":1983},
                         {
-                            "name": "Rubina (Ruby)", 
+                            "name": "Rubina (Ruby)",
                             "children":[
                                 {"name": "Farman","value": 1983},
                                 {"name": "Rizwan","value": 2047}
@@ -219,7 +220,7 @@
             ]
         },
         {
-            "name": "Mohammad Moinuddin", 
+            "name": "Mohammad Moinuddin",
             "children":[
                 {
                     "name": "Mohammad Rafi",
@@ -251,7 +252,7 @@
             ]
         },
         {
-            "name": "Mohammad Latif", 
+            "name": "Mohammad Latif",
             "children":[
                 {
                     "name": "Fazle Ahmed",
@@ -338,7 +339,7 @@
                     "children":[
                         {"name": "Sadiya","value": 1375},
                         {"name": "Aliya","value": 8746}
-                    ]                        
+                    ]
                 },
                 {
                     "name": "Ishrat",
@@ -358,13 +359,13 @@
                     "children":[
                         {"name": "Asad","value": 1375},
                         {"name": "Aves","value": 8746}
-                    ]                        
+                    ]
                 }
             ]
         },
         {"name": "Mohammad Basheer", "value": 449},
         {
-            "name": "Ruqaiyya", 
+            "name": "Ruqaiyya",
             "children":[
                 {
                     "name": "Nazma",
@@ -385,7 +386,7 @@
                             ]
                         },
                         {
-                            "name": "Anvar Ahmed (Chotu)", 
+                            "name": "Anvar Ahmed (Chotu)",
                             "children":[
                                 {"name": "Sufiya","value": 1983},
                                 {"name": "Aiza","value": 2047}
@@ -396,7 +397,7 @@
             ]
         },
         {
-            "name": "Zainulabedin", 
+            "name": "Zainulabedin",
             "children":[
                 {
                     "name": "Farhat Kosar (Munnu)",
@@ -405,25 +406,25 @@
                             "name": "Arbaz",
                             "children":[
                                 {"name": "Ejaz","value": 1375}
-                            ]                        
+                            ]
                         },
                         {"name": "Amrin","value": 8746},
                         {"name": "Sadaf","value": 2202}
-                    ]                        
+                    ]
                 },
                 {
                     "name": "Sajid",
                     "children":[
                         {"name": "Asad","value": 1375},
                         {"name": "Aves","value": 8746}
-                    ]                        
+                    ]
                 },
                 {
                     "name": "Salma",
                     "children":[
                         {"name": "Sadiya","value": 1375},
                         {"name": "Aliya","value": 8746}
-                    ]                        
+                    ]
                 },
                 {"name": "Reshma","value": 8746}
             ]
